@@ -1,0 +1,1 @@
+# investigation-of-the-non-Gaussianity-in-the-simulated-CMB-using-convolutional-neural-networks
