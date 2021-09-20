@@ -15,6 +15,8 @@ Data source:
 I used simulated data that are available here:
 http://dc.zah.uni-heidelberg.de/elsnersim/q/s/fixed
 
+The mathematical background of data generation is available in this paper: https://ui.adsabs.harvard.edu/abs/2009ApJS..184..264E/abstract
+
 A succinct description of research results:
 ---------------------------------------------
 According to the mathematical background, I considered three different amounts of f_NL and, therefore, my data set has three classes.
